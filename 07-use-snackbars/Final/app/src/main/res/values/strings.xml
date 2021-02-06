@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">Fruit Salad</string>
+
+  <string name="fruit_banana">Banana</string>
+  <string name="fruit_orange">Orange</string>
+  <string name="fruit_lime">Lime</string>
+  <string name="fruit_list_title">Fruit list</string>
+  <string name="fruit_list">Fruit list: %d bananas, %d oranges, %d limes.</string>
+
+  <string name="button_add">Add fruit</string>
+  <string name="button_copy">Copy list</string>
+  <string name="button_clear">Clear list</string>
+  <string name="mystery_title">Mystery fruit</string>
+
+  <string name="dialog_fruit_title">Pears!</string>
+  <string name="dialog_fruit_close">Close</string>
+  <string name="dialog_add_fruit_title">Select a fruit item</string>
+  <string name="dialog_add_fruit_positive_button">Add</string>
+  <string name="dialog_clear_list_title">Clear fruit list</string>
+  <string name="dialog_clear_list_message">Are you sure you want to clear the list?</string>
+  <string name="dialog_clear_list_positive_button">Clear</string>
+  <string name="dialog_negative_button">No</string>
+  <string name="dialog_cancel">Cancel</string>
+
+  <string name="toast_copied_to_clipboard">Copied to clipboard</string>
+  <string name="snackbar_fruit_added">%s added</string>
+  <string name="snackbar_undo">Undo</string>
+</resources>
